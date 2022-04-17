@@ -1,0 +1,12 @@
+JS-IV
+
+Los objetos son asociaciones entre un nombre (o clave) y un valor
+es una coleccion de propiedades.
+
+Propiedades: son las caractiristicas del objeto.
+
+Los Métodos: son las acciones que el objeto puede hacer.
+
+Bucle for in: permite recorrer todas las propiedades de un objeto.
+
+Notacion de puntos vs notacion de corchetes: ambos se utlizan para acceder a las propiedades el objeto.

@@ -1,0 +1,16 @@
+conceptos JS-I
+
+Variables: son contenedores o recipientes que pueden almacenar datos o valores, que pueden variar en la ejecucion de un programa.
+
+Existen diferentes tipos de datos
+
+Strings: siempre son palabras que van entre comillas dobles o simples.
+Los numbers son numeros 
+
+Funciones: ejecutan codigo, lo guardan para poder volver a usarlo. Los argumentos son como variables que declaramos adentro de la funcion que toman un valor cuando 
+invocamos a la funcion y siempre con parentesis.
+Return hace que la ejecucion de la funcion termine y solo retorna una sola vez.
+
+Declaraciones (if): nos permite agregar logica al codigo. los if nos permiten hacer preguntas e ir ejecutando diferentes codigos segun las distintas condiciones.
+
+Los booleanos crean valores logicos pueden ser false o true.

@@ -1,0 +1,8 @@
+JS-II
+
+El for es un bucle que sirve para hacer tareas repetitivas, se utiliza cuando sabemos el numero de veces que queremos que se ejecute.
+Cuando tenemos tipos de datos booleanos, un operador recibe 2 operando y segun el operador y el valor de los operando recibe un resultado.
+&& (y) es verdadero solo si los dos operando son verdaderos, es decir A Y B.
+|| (O) es verdadero  cuando A o B son verdaderos.
+! (no) es verdadero si A es falso.
+0 comments on commit 9e0937a

@@ -1,0 +1,6 @@
+
+JS-V
+
+Prototype: es un mecanismo, mediante el cual los objetos heredan caracteristicas entre si.
+
+Constructor: es un método para crear e inicializar un objeto creado a partir de una clase.

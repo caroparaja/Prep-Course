@@ -1,0 +1,10 @@
+
+JS-VI
+
+Funciones Callback: aseguran que una funcion no se va a ejecutar, antes de que se complete una tarea.
+
+Map: devuelve un arreglo del mismo lugar donde se lo invoca.
+
+ForEach: no devuelve nada.
+
+Reduce: devuelve un unico valor.

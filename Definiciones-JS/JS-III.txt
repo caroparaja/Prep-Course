@@ -1,0 +1,8 @@
+
+JS-III
+
+
+Arrays
+
+Un array es una lista ordenada de valores, la forma mas sencilla es asignar un valor de arreglo a una variable.
+es una coleccion de variables del mismo tipo a la que se hace referencia por un nombre en común.
